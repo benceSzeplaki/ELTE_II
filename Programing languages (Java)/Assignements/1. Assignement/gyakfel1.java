@@ -1,5 +1,3 @@
-//STM3ML Széplaki Bence
-//Gyakorló feladat 1. :
 class gyakfel1
 {
 	public static void main(String[] args) 
