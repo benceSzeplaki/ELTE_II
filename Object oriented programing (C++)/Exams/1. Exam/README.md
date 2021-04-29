@@ -20,7 +20,8 @@ Példa az input fájl soraira:
   
 Adjon meg egy olyan napot, amelyre igaz, hogy az aznap örökbefogadott összes labrador legalább 2 éves!  
   
-Kiváló szint (jeles): Tekintsük az előző feladatban szereplő szöveges állományt az alábbi módosításokkal.  
+Kiváló szint (jeles):   
+Tekintsük az előző feladatban szereplő szöveges állományt az alábbi módosításokkal.  
 A kiskutyákért felelős államtitkár indítványozására a Tappancs Kutyamenhely ötletét alapul véve létrehoztak  
 egy szöveges állományt, melyben az ország összes kutyamenhelyének örökbefogadásait tartják számon.  
 A menhelyek beazonosíthatósága miatt a szöveges állomány sorai először a menhely azonosítóját, utána egy dátumot,  
