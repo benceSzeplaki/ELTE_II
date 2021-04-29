@@ -1,4 +1,4 @@
-# 📓 Homework
+# 📓 Homework #1 (in hungarian)
  - Egy komplex szám osztály, benne privát adattagokkal és az alapműveletekkel
  - Egy egyszerű menürendszer, a következő lehetőségekkel:
    - kilépés a programból
