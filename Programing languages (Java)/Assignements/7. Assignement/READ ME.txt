@@ -1,0 +1,2 @@
+Fordítás:javac Main.java 
+Futtatás:java Main

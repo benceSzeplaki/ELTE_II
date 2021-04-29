@@ -1,0 +1,2 @@
+Fordítás: javac fileInOut/oszlop1.java
+Futtatás: java fileInOut/oszlop1
