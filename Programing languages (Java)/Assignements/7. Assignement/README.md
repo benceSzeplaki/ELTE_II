@@ -1,4 +1,4 @@
-# 📓 Assignement #6
+# 📓 Assignement #7
 
 Készítsünk egy egyszerű Color felsorolt típust, mely a következő értékeket tárolhatja: RED, GREEN, BLUE.  
   
