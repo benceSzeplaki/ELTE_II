@@ -10,7 +10,7 @@ mely felsorolja a számokat szóközzel elválasztva (használjon StringBuilder-
 
 util/IntVector.java:  
 
-package util;  
+    package util;  
   
     public class IntVector   
     {  
