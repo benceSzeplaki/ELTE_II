@@ -59,5 +59,5 @@ IntVectorDemo.java:
         }  
     }    
 
-Fordítás: javac vector/IntVectorDemo.java
+Fordítás: javac vector/IntVectorDemo.java  
 Futtatás: java vector/IntVectorDemo
