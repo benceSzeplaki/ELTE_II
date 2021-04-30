@@ -1,2 +1,0 @@
-Fordítás: javac vector/IntVectorDemo.java
-Futtatás: java vector/IntVectorDemo
