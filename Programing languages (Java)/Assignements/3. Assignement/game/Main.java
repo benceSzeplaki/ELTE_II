@@ -32,7 +32,7 @@ public class Main
 		player2.ipAdress = "132.86.36.11";
 		player2.healthStatus = 8;
 		player2.v = car;
-        System.out.println(player1.toStringPlayer());
+                System.out.println(player1.toStringPlayer());
 		System.out.println(player2.toStringPlayer());
 	}
 }
