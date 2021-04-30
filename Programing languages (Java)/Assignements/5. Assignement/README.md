@@ -57,4 +57,7 @@ IntVectorDemo.java:
             System.out.println(v);  
             System.out.println(v2);  
         }  
-    }  
+    }    
+
+Fordítás: javac vector/IntVectorDemo.java
+Futtatás: java vector/IntVectorDemo
