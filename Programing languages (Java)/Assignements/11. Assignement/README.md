@@ -1,4 +1,4 @@
-#📓 Assignement #11
+# 📓 Assignement #11
 
 Készítsen egész számok listáját reprezentáló adatszerkezetet IntList néven.  
 Egy (a) részfeladat keretében készítse el az adatszerkezet hagyományos, tömbökön alapuló megoldását.  
